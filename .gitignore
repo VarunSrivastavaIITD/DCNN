@@ -2,3 +2,4 @@ model*
 __pycache__
 *.npz
 .mypy_cache
+.vscode
