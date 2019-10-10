@@ -46,7 +46,10 @@ The pipeline for each part is explained below.
 <p align="center">
 <img src="./images/AlgoFigv2.png">
 <br\>
+
+<center>
 Functional flowchart of a single forward pass (prediction)
+</center>
 </p>
 
 
