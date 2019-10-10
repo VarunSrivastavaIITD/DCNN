@@ -7,6 +7,7 @@ _Published in INTERSPEECH-2019 (poster)_
 
 
 Authors: Mohit Goyal\*, Varun Srivastava\*, Prathosh A.P.
+
 \* _Equal Contribution_
 
 ![State of the art results on GCI detection](./images/results.png)
