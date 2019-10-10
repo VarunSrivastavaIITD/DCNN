@@ -73,5 +73,3 @@ Functional flowchart of a single forward pass (prediction)
 <img src="./images/cluster2.png">
 Histogram Clustering of the predictions made by the CNN
 </p>
-
-
