@@ -25,7 +25,7 @@ The given code has been tested on the CMU Arctic Dataset for the speakers BDL, J
 
 ## Requirements
 1. Python 3.6 or greater
-2. Pytorch (GPU*/CPU)
+2. Pytorch (GPU/CPU) _GPU highly recommended_
 
 ## Running Experiments
 ---
