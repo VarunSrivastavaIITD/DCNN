@@ -7,6 +7,7 @@ _Published in INTERSPEECH-2019 (poster)_
 
 
 Authors: Mohit Goyal\*, Varun Srivastava\*, Prathosh A.P.
+\* _Equal Contribution_
 
 ![State of the art results on GCI detection](./images/results.png)
 <center> The proposed algorithm <strong>CNN</strong> demonstrates best performance across speakers, noise types and noise SNRs </center>
@@ -64,4 +65,4 @@ Histogram Clustering of the predictions made by the CNN
 
 
 
-\* _Equal Contribution_
+
