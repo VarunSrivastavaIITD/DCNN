@@ -54,7 +54,7 @@ The file [`main.py`](main.py) is the entry-point to the training procedure. A co
 ```bash
 python main.py 
 ```
-**It is important to set the configuration parameters `speech_npz_file` and `egg_npz_file` containing the path to the speech and egg files. It is currently set to files `example_speech.npz` and `example_egg.npz` for illustrative purposes.**
+**It is important to set the configuration parameters `speech_npz_file` and `egg_npz_file` containing the path to the speech and egg files. It is currently set to files `example_speech.npz` and `example_egg.npz` for illustrative purposes. These files area available at the google drive link [Drive Link](https://drive.google.com/drive/folders/1cbTE8ZVixV4EFj6TVgkg5C58hracyk3r?usp=sharing)**
 
 <p align="center">
 <img src="./images/AlgoFigv2.png">

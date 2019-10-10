@@ -114,8 +114,8 @@ def config():
         ddict["model_dir"] = get_model_dir(model_prefix="model")
         # ddict["speech_dir"] = "speech"
         # ddict["peaks_dir"] = "peaks"
-        ddict["speech_npz_file"] = "bdl_speech.npz"
-        ddict["egg_npz_file"] = "bdl_egg.npz"
+        ddict["speech_npz_file"] = "example_speech.npz"
+        ddict["egg_npz_file"] = "example_egg.npz"
         ddict["window"] = 80
         ddict["use_cuda"] = True
         ddict["load_test"] = False
