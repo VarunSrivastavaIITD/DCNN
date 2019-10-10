@@ -37,7 +37,7 @@ The broad codebase can be divided into the following three parts:
 - Training and Validation
 - Visualization
 
-The pipeline for each is explained below.
+The pipeline for each part is explained below.
 
 ### Preprocessing
 
@@ -45,9 +45,19 @@ The pipeline for each is explained below.
 
 <p align="center">
 <img src="./images/AlgoFigv2.png">
+Functional flowchart of a single forward pass (prediction)
 </p>
 
 
 ### Visualization
+
+<p align="center">
+<img src="./images/cluster2.png">
+Histogram Clustering of the predictions made by the CNN
+</p>
+
+
+
+
 
 \* _Equal Contribution_
